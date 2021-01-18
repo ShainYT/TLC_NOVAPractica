@@ -1,0 +1,1 @@
+$("#tablaDepartamento").DataTable();

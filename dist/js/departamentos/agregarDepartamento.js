@@ -1,0 +1,1 @@
+$("#agregarDepartamento").validate();

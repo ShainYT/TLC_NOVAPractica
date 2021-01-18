@@ -1,0 +1,1 @@
+$("#tablaFabricante").DataTable();

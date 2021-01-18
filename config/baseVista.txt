@@ -1,0 +1,25 @@
+<?php
+    //Archivo que incluye variables generales que se usan en todo el proyecto
+    include '../../config/variablesGlobales.php';
+?>
+
+<!doctype html>
+<html lang="es">
+<head>
+    <?php
+        //Archivo que tiene la carga de los css, meta
+        include '../../components/head.php';
+    ?>
+    <title>Marcas</title>
+</head>
+<body>
+
+    <?php
+        //Archivo que incluye el menú general de todas las páginas
+        include '../../components/menu.php';
+        //Archivo que incluye las librerías que se usan en el sistema
+        include '../../components/librerias.php';
+    ?>
+
+</body>
+</html>
